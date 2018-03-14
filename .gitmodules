@@ -1,0 +1,3 @@
+[submodule "work-springcloud-eureka"]
+	path = work-springcloud-eureka
+	url = https://github.com/beyondLi71/work-springcloud-eureka.git
