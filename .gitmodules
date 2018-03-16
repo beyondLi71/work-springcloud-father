@@ -4,3 +4,6 @@
 [submodule "work-springcloud-feign-two"]
 	path = work-springcloud-feign-two
 	url = https://github.com/beyondLi71/work-springcloud-feign-two.git
+[submodule "work-springcloud-feign-first"]
+	path = work-springcloud-feign-first
+	url = https://github.com/beyondLi71/work-springcloud-feign-first.git
