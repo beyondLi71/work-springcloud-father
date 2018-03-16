@@ -1,3 +1,6 @@
 [submodule "work-springcloud-eureka"]
 	path = work-springcloud-eureka
 	url = https://github.com/beyondLi71/work-springcloud-eureka.git
+[submodule "work-springcloud-feign-one"]
+	path = work-springcloud-feign-one
+	url = https://github.com/beyondLi71/work-springcloud-feign-one.git
