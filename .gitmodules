@@ -7,3 +7,12 @@
 [submodule "work-springcloud-feign-first"]
 	path = work-springcloud-feign-first
 	url = https://github.com/beyondLi71/work-springcloud-feign-first.git
+[submodule "work-springcloud-config"]
+	path = work-springcloud-config
+	url = https://github.com/beyondLi71/work-springcloud-config.git
+[submodule "work-springcloud-feign-first-conf"]
+	path = work-springcloud-feign-first-conf
+	url = https://github.com/beyondLi71/work-springcloud-feign-first-conf.git
+[submodule "work-springcloud-feign-two-conf"]
+	path = work-springcloud-feign-two-conf
+	url = https://github.com/beyondLi71/work-springcloud-feign-two-conf.git
