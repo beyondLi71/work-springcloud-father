@@ -16,3 +16,6 @@
 [submodule "work-springcloud-feign-two-conf"]
 	path = work-springcloud-feign-two-conf
 	url = https://github.com/beyondLi71/work-springcloud-feign-two-conf.git
+[submodule "common"]
+	path = common
+	url = https://github.com/beyondLi71/common.git
